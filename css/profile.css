@@ -1,0 +1,30 @@
+.profile-pic{
+max-width: 50%;
+}
+/*
+this is a comment*/
+
+.card{
+	border:solid  #cccccc 1px;
+	border-radius: 4px;
+	padding: 10px;
+	margin-bottom: 10px;
+	box-shadow: 3px 3px 10px #cccccc
+}
+.description{
+	background-image: url("../img/map.jpg");
+	 background-size:contain;
+}
+
+.card-title{
+	font: 20px bold, cooper black ;
+	color: hotpink;
+
+}
+
+/* css for index */
+.mybackground {
+  background-image: url("../img/pict1.jpg");
+  background-size: cover;
+  color: white;
+}
