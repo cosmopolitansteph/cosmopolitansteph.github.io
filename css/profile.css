@@ -9,22 +9,92 @@ this is a comment*/
 	border-radius: 4px;
 	padding: 10px;
 	margin-bottom: 10px;
-	box-shadow: 3px 3px 10px #cccccc
+	box-shadow: 3px 3px 10px #cccccc;
+	background-color: white;
 }
 .description{
 	background-image: url("../img/map.jpg");
 	 background-size:contain;
 }
 
-.card-title{
-	font: 20px bold, cooper black ;
+.lobster{
+	font: 20px; 
+	font-family: 'Lobster', cursive;
 	color: hotpink;
 
 }
+.nav-link{
+	color:white;
+}
+
+body
+{
+	background-image: url("../img/palm.jpg");
+
+}
+
+.bio {
+	font-family: 'Lobster', cursive;
+	font:15px;
+	color: white;
+}
 
 /* css for index */
+
+
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #eb99ff;
+  margin-bottom: 0px;
+}
+
+.navbar-brand {
+	color: white;
+}
+
+.btn {
+  font-weight: 300;
+
+}
+
+.btn-primary {
+  background: #eb99ff;
+  border-color: #eb99ff;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #eb99ff;
+  border-color: #eb99ff;
+}
+
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
 .mybackground {
   background-image: url("../img/pict1.jpg");
   background-size: cover;
+  height: 100%;
   color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
 }
